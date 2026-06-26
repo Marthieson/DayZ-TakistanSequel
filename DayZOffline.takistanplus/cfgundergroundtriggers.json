@@ -1,0 +1,350 @@
+{
+    "Triggers": [
+        {
+            "Position": [ 1377.7603759765626, 292.2898254394531, 8776.6337890625 ],
+            "Orientation": [ 0.0, 0.0, 0.0 ],
+            "Size": [ 2.0, 9.0, 1.0010000467300416 ],
+            "EyeAccommodation": 0.800000011920929,
+            "InterpolationSpeed": 1.0,
+			"AmbientSoundType": "underground",
+            "Breadcrumbs": []
+        },
+		{
+            "Position": [ 1377.7550048828126, 294.12432861328127, 8779.0927734375 ],
+            "Orientation": [ 0.0, 0.0, -0.0 ],
+            "Size": [ 2.0, 6.0, 4.000999927520752 ],
+            "EyeAccommodation": 0.6000000238418579,
+            "InterpolationSpeed": 1.0,
+			"AmbientSoundType": "underground",
+            "Breadcrumbs": []
+        },
+		{
+            "Position": [ 1372.17236328125, 294.0, 8779.05078125 ],
+            "Orientation": [ 0.0, 0.0, -0.0 ],
+            "Size": [ 10.0, 6.0, 6.0 ],
+            "EyeAccommodation": 0.4000000059604645,
+            "InterpolationSpeed": 1.0,
+			"AmbientSoundType": "underground",
+            "Breadcrumbs": []
+        },
+		{
+            "Position": [ 1369.0447998046876, 296.1272277832031, 8773.9404296875 ],
+            "Orientation": [ 0.0, 0.0, -0.0 ],
+            "Size": [ 5.0, 10.0, 6.0 ],
+            "EyeAccommodation": 0.30000001192092898,
+            "InterpolationSpeed": 1.0,
+			"AmbientSoundType": "underground",
+            "Breadcrumbs": []
+        },
+		{
+            "Position": [ 1361.693359375, 294.0, 8772.6669921875 ],
+            "Orientation": [ 0.0, 0.0, -0.0 ],
+            "Size": [ 10.0, 8.0, 10.0 ],
+            "EyeAccommodation": 0.20000000298023225,
+            "InterpolationSpeed": 1.0,
+			"AmbientSoundType": "underground",
+            "Breadcrumbs": []
+        },
+		{
+            "Position": [ 1358.25244140625, 294.0, 8762.8720703125 ],
+            "Orientation": [ 0.0, 0.0, -0.0 ],
+            "Size": [ 10.0, 9.0, 10.0 ],
+            "EyeAccommodation": 0.10000000298023225,
+            "InterpolationSpeed": 1.0,
+			"AmbientSoundType": "underground",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [ 1316.6810302734376, 303.0, 8741.0517578125 ],
+            "Orientation": [ 0.0, 0.0, -0.0 ],
+            "Size": [ 80.0, 35.0, 110.0 ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.5,
+			"AmbientSoundType": "underground",
+            "Breadcrumbs": []
+        },
+		{
+            "Position": [ 1287.0, 325.5, 8702.2099609375 ],
+            "Orientation": [ 0.0, 0.0, -0.0 ],
+            "Size": [ 27.0, 30.0, 30.0 ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 1.0,
+			"AmbientSoundType": "underground",
+            "Breadcrumbs": []
+        },
+		{
+            "Position": [ 1290.300048828125, 337.0, 8685.349609375 ],
+            "Orientation": [ 0.0, -19.999998092651368, -0.0 ],
+            "Size": [ 6.0, 7.0, 6.0 ],
+            "EyeAccommodation": 0.40000000298023225,
+            "InterpolationSpeed": 0.5,
+			"AmbientSoundType": "underground",
+            "Breadcrumbs": []
+        },
+		{
+            "Position": [ 1287.4000244140626, 343.20001220703127, 8674.4130859375 ],
+            "Orientation": [ 18.999998092651368, -28.999990463256837, -0.000048808269639266658 ],
+            "Size": [ 5.0, 5.0, 25.0 ],
+            "EyeAccommodation": 0.80000000298023225,
+            "InterpolationSpeed": 0.5,
+			"AmbientSoundType": "underground",
+            "Breadcrumbs": []
+        },
+		{
+            "Position": [ 3799.199951171875, 81.0, 10993.4501953125 ],
+            "Orientation": [ 16.629966735839845, 0.0, -0.0 ],
+            "Size": [ 20.850000381469728, 12.0, 39.5 ],
+            "EyeAccommodation": 0.1,
+            "InterpolationSpeed": 0.5,
+			"AmbientSoundType": "sewer",
+            "Breadcrumbs": []
+        },
+		{
+            "Position": [ 3802.554931640625, 79.5, 11014.5771484375 ],
+            "Orientation": [ 16.630001068115236, 0.0, -0.0 ],
+            "Size": [ 9.600000381469727, 11.0, 4.0 ],
+            "EyeAccommodation": 0.5,
+            "InterpolationSpeed": 0.5,
+            "AmbientSoundType": "sewer",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Position": [ 3803.64990234375, 79.5, 11018.2001953125 ],
+            "Orientation": [ 16.630001068115236, 0.0, 0.0 ],
+            "Size": [ 9.600000381469727, 11.0, 4.0 ],
+            "EyeAccommodation": 0.8,
+            "InterpolationSpeed": 0.5,
+            "AmbientSoundType": "sewer",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Position": [ 3785.672607421875, 77.87031555175781, 10992.423828125 ],
+            "Orientation": [ 16.629985809326173, 0.0, -0.0 ],
+            "Size": [ 4.699999809265137, 8.0, 5.199999809265137 ],
+            "EyeAccommodation": 0.1,
+            "InterpolationSpeed": 1.0,
+            "AmbientSoundType": "sewer",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Position": [ 3782.6552734375, 77.55482482910156, 10987.60546875 ],
+            "Orientation": [ 16.630006790161134, 0.0, -0.0 ],
+            "Size": [ 9.0, 9.0, 5.900000095367432 ],
+            "EyeAccommodation": 0.5,
+            "InterpolationSpeed": 0.5,
+            "AmbientSoundType": "sewer",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{ 
+			"Comment": "warheadstorage-big-hall",
+			"Position": [ 5827.50, 78.90, 11312 ],
+			"Orientation": [ 45.0, 0, 0 ],
+			"Size": [ 20.0, 6.0, 26.5 ],
+			"EyeAccommodation": 0,
+			"InterpolationSpeed": 0.2,
+            "AmbientSoundType": "bunker",
+            "AmbientSoundSet": "",
+			"Breadcrumbs": []
+		},
+		{ 
+			"Comment": "warheadstorage-hall-smallrooms1",
+			"Position": [ 5820, 77, 11297.500 ],
+			"Orientation": [ 45.0, 0, 0 ],
+			"Size": [ 8, 3, 5 ],
+			"EyeAccommodation": 0,
+			"InterpolationSpeed": 0.0,
+            "AmbientSoundType": "bunker",
+            "AmbientSoundSet": "",
+			"Breadcrumbs": []
+		},
+		{
+			"Comment": "warheadstorage-hall-smallrooms2",
+			"Position": [ 5842, 77, 11320 ],
+			"Orientation": [ 45, 0, 0 ],
+			"Size": [ 8, 3, 7 ],
+			"EyeAccommodation": 0.0,
+			"InterpolationSpeed": 0.0,
+            "AmbientSoundType": "bunker",
+            "AmbientSoundSet": "",
+			"Breadcrumbs": []
+		},
+		{
+			"Comment": "warheadstorage-facility",
+			"Position": [ 5840, 77.5, 11302 ],
+			"Orientation": [ 45, 0, 0 ],
+			"Size": [ 16, 4, 25.0 ],
+			"EyeAccommodation": 0.0,
+			"InterpolationSpeed": 0.2,
+            "AmbientSoundType": "bunker",
+            "AmbientSoundSet": "",
+			"Breadcrumbs": []
+		},
+		{
+			"Comment": "warheadstorage-facility-stairs",
+			"Position": [ 5843, 80, 11298.3 ],
+			"Orientation": [ 45, 0, 0 ],
+			"Size": [ 3.5, 3.1, 7.4 ],
+			"EyeAccommodation": 0.5,
+			"InterpolationSpeed": 0.2,
+            "AmbientSoundType": "bunker",
+            "AmbientSoundSet": "",
+			"Breadcrumbs": []
+		},
+		{
+			"Comment": "warheadstorage-facility-stairsentrance",
+			"Position": [ 5843.2, 82.988, 11298.4 ],
+			"Orientation": [ 45, 0, 0 ],
+			"Size": [ 3.4, 3, 7.3 ],
+			"EyeAccommodation": 0.8,
+			"InterpolationSpeed": 0.2,
+            "AmbientSoundType": "bunker",
+            "AmbientSoundSet": "",
+			"Breadcrumbs": []
+		},
+		{
+			"Comment": "warheadstorage-exit",
+			"Position": [ 5843, 80.36, 11320 ],
+			"Orientation": [ 45, 0, 0 ],
+			"Size": [ 6.6, 2.7, 6.7 ],
+			"EyeAccommodation": 0.7,
+			"InterpolationSpeed": 0.5,
+            "AmbientSoundType": "bunker",
+            "AmbientSoundSet": "",
+			"Breadcrumbs": []
+		},
+		{
+			"Comment": "warheadstorage-entrance",
+			"Position": [ 5820, 80.36, 11297 ],
+			"Orientation": [ 45, 0, 0 ],
+			"Size": [ 6.6, 2.7, 6.7 ],
+			"EyeAccommodation": 0.7,
+			"InterpolationSpeed": 0.5,
+            "AmbientSoundType": "bunker",
+            "AmbientSoundSet": "",
+			"Breadcrumbs": []
+		},
+		{
+			"Comment": "castle-main",
+            "Position": [
+                10306.2080078125,
+                395.5002746582031,
+                8202.78515625
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                100.0,
+                45.0,
+                75.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+		},
+		{
+			"Comment": "castle-03",
+            "Position": [
+                10308.23828125,
+                419.036865234375,
+                8193.5087890625
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                35.0,
+                3.0,
+                35.0
+            ],
+            "EyeAccommodation": 0.2,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+		},
+		{
+			"Comment": "castle-06",
+            "Position": [
+                10308.2470703125,
+                421.8572082519531,
+                8193.4814453125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                35.0,
+                3.0,
+                35.0
+            ],
+            "EyeAccommodation": 0.5,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+		},
+		{
+            "Comment": "fortress",
+			"Position": [
+                8000.000,
+                608.000,
+                6200.000
+            ],
+            "Orientation": [
+                45.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                48.0,
+                5.0,
+                35.0
+            ],
+            "EyeAccommodation": 0.85,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Comment": "fortress2",
+			"Position": [
+                8013.250,
+                608.000,
+                6178.784
+            ],
+            "Orientation": [
+                45.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                2.0,
+                5.0,
+                18.0
+            ],
+            "EyeAccommodation": 0.85,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        }
+    ]
+}

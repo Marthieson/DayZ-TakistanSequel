@@ -1,0 +1,63 @@
+{
+    "Areas": [
+        { 	"AreaName": "Bunker", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 1320, 0, 8750 ],
+				"Radius": 100,
+				"PosHeight": 100,
+				"NegHeight": 20,
+				"InnerPartDist": 80,
+				"OuterOffset": 30, 
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "Bunker2", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 1320, 0, 8750 ],
+				"Radius": 200,
+				"PosHeight": 50,
+				"NegHeight": 50,
+				"InnerPartDist": 50,
+				"OuterOffset": 0, 
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		}
+    ],
+
+	"SafePositions":[
+		[3580, 10800],
+		[3880, 11000],
+		[3445, 10980],
+		[6000, 11620],
+		[6600, 11265],
+		[8230, 2460],
+		[8453, 2663],
+		[8663, 2495],
+		[8500, 2231],
+		[8900, 4792],
+		[6543, 4431],
+		[6644, 5163],
+		[7000, 4940],
+		[6837, 4684],
+		[8620, 4900],
+		[8900, 4970],
+		[8622, 5290],
+		[5600, 9671],
+		[5488, 9958],
+		[5911, 10000]
+	]
+}

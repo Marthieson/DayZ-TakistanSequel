@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<prototype>
+		<clusters>
+			<export name="PathD10" shape="TK\Roads\Roads\dirt7_W7_L7.p3d" />
+			<export name="PathD30" shape="TK\Roads\Roads\dirt7_W7_L14.p3d" />
+			<export name="PinusSylvestris_3d" shape="dz\plants\tree\t_PinusSylvestris_3d.p3d" />			
+			<export name="PinusSylvestris_stump" shape="dz\plants\tree\d_PinusSylvestris_stump.p3d" />
+			<export name="PinusSylvestris_stumpB" shape="dz\plants\tree\d_PinusSylvestris_stumpb.p3d" />
+			<export name="PinusSylvestris_fallen" shape="dz\plants\tree\d_PinusSylvestris_fallen.p3d" />
+			<export name="PinusSylvestris_fallenB" shape="dz\plants\tree\d_PinusSylvestris_fallenb.p3d" />
+			<export name="PinusSylvestris_fallenc" shape="dz\plants\tree\d_PinusSylvestris_fallenc.p3d" />
+		</clusters>
+
+
+<!--Groups -->
+<!--Mushrooms - Coniferous -->
+		<cluster name="PinusSylvestris_3d_Summer" lootmax="2" maxinstances="155">
+			<de name="TrajectoryConiferous" />
+			<container name="branch" lootmax="1">
+				<point pos="1.97 -09.90 0.09" range="0.30" height="0.43" flags="32" />
+				<point pos="-0.28 -09.90 -1.79" range="0.30" height="0.43" flags="32" />
+				<point pos="-1.86 -09.90 -0.21" range="0.30" height="0.43" flags="32" />
+				<point pos="-0.05 -09.90 2.08" range="0.30" height="0.43" flags="32" />
+			</container>
+		</cluster>
+		<cluster name="PinusSylvestris_3d" lootmax="2" maxinstances="150">
+			<de name="TrajectoryConiferous" />
+			<container name="branch" lootmax="1">
+			<point pos="1.30 -7.95 -0.35" range="1.06" height="2.00" flags="32" />
+			<point pos="-0.43 -7.95 1.68" range="1.09" height="2.00" flags="32" />
+			<point pos="-0.64 -7.95 -1.77" range="1.09" height="2.00" flags="32" />
+			<point pos="-2.50 -7.95 0.09" range="1.09" height="2.00" flags="32" />
+			</container>
+		</cluster>
+		<cluster name="PinusSylvestris_stump" lootmax="2" maxinstances="150">
+			<de name="TrajectoryConiferous" />
+			<container name="branch" lootmax="1">
+			<point pos="1.05 -0.82 -1.35" range="1.00" height="2.00" flags="32" />
+			<point pos="-1.20 -0.82 -0.80" range="0.90" height="2.00" flags="32" />
+			<point pos="-0.74 -0.82 1.01" range="0.57" height="2.00" flags="32" />
+			<point pos="1.05 -0.82 1.18" range="0.83" height="2.00" flags="32" />
+			</container>
+		</cluster>
+		<cluster name="PinusSylvestris_stumpB" lootmax="2" maxinstances="150">
+			<de name="TrajectoryConiferous" />
+			<container name="branch" lootmax="1">
+			<point pos="0.01 -0.01 -1.38" range="0.84" height="2.00" flags="32" />
+			<point pos="1.32 -0.01 0.74" range="0.90" height="2.00" flags="32" />
+			<point pos="-1.60 -0.01 1.00" range="0.90" height="2.00" flags="32" />
+			</container>
+		</cluster>
+		<cluster name="PinusSylvestris_fallen" lootmax="2" maxinstances="150">
+			<de name="TrajectoryConiferous" />
+			<container name="branch" lootmax="1">
+			<point pos="0.93 -0.28 1.047" range="0.90" height="2.00" flags="32" />
+			<point pos="-1.20 -0.28 -0.75" range="0.90" height="2.00" flags="32" />
+			<point pos="-1.70 -0.28 1.60" range="0.90" height="2.00" flags="32" />
+			</container>
+		</cluster>
+		<cluster name="PinusSylvestris_fallenB" lootmax="2" maxinstances="150">
+			<de name="TrajectoryConiferous" />
+			<container name="branch" lootmax="1">
+			<point pos="0.50 -0.10 2.07" range="0.43" height="1.57" flags="32" />
+			<point pos="-1.33 -0.10 -2.08" range="1.0" height="2.00" flags="32" />
+			<point pos="0.67 -0.10 0.05" range="0.70" height="2.00" flags="32" />
+			<point pos="-1.04 -0.10 0.95" range="0.60" height="2.00" flags="32" />
+			</container>
+		</cluster>
+		<cluster name="PinusSylvestris_fallenc" lootmax="2" maxinstances="150">
+			<de name="TrajectoryConiferous" />
+			<container name="branch" lootmax="1">
+			<point pos="0.82 -0.17 -1.35" range="0.77" height="2.00" flags="32" />
+			<point pos="1.15 -0.17 0.20" range="0.61" height="2.00" flags="32" />
+			<point pos="-1.16 -0.17 -1.24" range="1.01" height="2.00" flags="32" />
+			<point pos="-1.43 -0.17 0.72" range="0.77" height="2.00" flags="32" />
+			</container>
+		</cluster>
+<!--STONES -->
+		<cluster name="PathD10" lootmax="1" maxinstances="150">
+			<de name="TrajectoryStones" />
+			<container name="road" lootmax="1">
+			<point pos="2.19 0.20 -0.46" range="0.75" height="1.00" flags="32" />
+			<point pos="-3.41 0.20 -0.11" range="0.75" height="1.00" flags="32" />
+			<point pos="-0.53 0.20 -0.09" range="0.75" height="1.00" flags="32" />
+			</container>
+		</cluster>
+		<cluster name="PathD30" lootmax="1" maxinstances="150">
+			<de name="TrajectoryStones" />
+			<container name="road" lootmax="1">
+			<point pos="-2.40 0.20 0.12" range="0.75" height="1.00" flags="32" />
+			<point pos="-5.04 0.20 -0.10" range="0.75" height="1.00" flags="32" />
+			<point pos="1.59 0.20 0.30" range="0.75" height="1.00" flags="32" />
+			<point pos="6.23 0.20 -0.02" range="0.75" height="1.00" flags="32" />
+			<point pos="-10.04 0.20 -0.29" range="0.75" height="1.00" flags="32" />
+			</container>
+		</cluster>
+</prototype>
