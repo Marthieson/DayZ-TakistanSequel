@@ -1,7 +1,7 @@
 # DayZ-TakistanSequel - TakistanPlus Terrain Addon
 CE and Mission Files for TakistanSequel
 
-[![Steam Workshop](https://img.shields.io/badge/Steam-Workshop-000000?style=for-the-badge&logo=steam)](YOUR_STEAM_WORKSHOP_URL)
+[![Steam Workshop](https://img.shields.io/badge/Steam-Workshop-171A21?logo=steam&logoColor=white)](https://steamcommunity.com/sharedfiles/filedetails/?id=3752826782)
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/marthieson19247)
 
 # About TakistanSequel
