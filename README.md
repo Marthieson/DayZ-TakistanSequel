@@ -2,7 +2,7 @@
 CE and Mission Files for TakistanSequel
 
 [![Steam Workshop](https://img.shields.io/badge/Steam-Workshop-000000?style=for-the-badge&logo=steam)](YOUR_STEAM_WORKSHOP_URL)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/marthieson19247)   
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi)]([https://ko-fi.com/marthieson19247](https://ko-fi.com/marthieson19247))
 
 # About TakistanSequel
 
