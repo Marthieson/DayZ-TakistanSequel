@@ -1,8 +1,7 @@
+[![Steam Workshop](https://img.shields.io/badge/Steam-Workshop-171A21?logo=steam&logoColor=white)](https://steamcommunity.com/sharedfiles/filedetails/?id=3752826782)
+
 # DayZ-TakistanSequel - TakistanPlus Terrain Addon
 CE and Mission Files for TakistanSequel
-
-[![Steam Workshop](https://img.shields.io/badge/Steam-Workshop-171A21?logo=steam&logoColor=white)](https://steamcommunity.com/sharedfiles/filedetails/?id=3752826782)
-[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/marthieson19247)
 
 # About TakistanSequel
 
@@ -53,4 +52,10 @@ Players must subscribe to **all** required mods via the Steam Workshop or DayZ L
 ## 🐛 Troubleshooting
 
 -   **Map not loading?** Verify that `@TakistanPlus` is listed **before** `@TakistanSequel` in your `-mod` launch parameter. 
--   **Script Errors?** Check that **Dabs Framework** is updated to the latest version. 
+-   **Script Errors?** Check that **Dabs Framework** is updated to the latest version.
+
+## Support
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/marthieson19247)
+
+
