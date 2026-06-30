@@ -54,7 +54,7 @@ Players must subscribe to **all** required mods via the Steam Workshop or DayZ L
 -   **Map not loading?** Verify that `@TakistanPlus` is listed **before** `@TakistanSequel` in your `-mod` launch parameter. 
 -   **Script Errors?** Check that **Dabs Framework** is updated to the latest version.
 
-## Support
+## 🙏 Support
 
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/marthieson19247)
 
