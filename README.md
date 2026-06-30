@@ -1,6 +1,12 @@
 # DayZ-TakistanSequel
 CE and Mission Files for TakistanSequel
 
+# TakistanPlus Terrain Addon
+> A custom terrain variant for DayZ featuring enhanced loot distribution and optimized CE spawns.
+
+[![Steam Workshop](https://img.shields.io/badge/Steam-Workshop-000000?style=for-the-badge&logo=steam)](YOUR_STEAM_WORKSHOP_URL)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi)](YOUR_KO_FI_URL)   
+
 # TakistanSequel
 
 **TakistanSequel** is a map addon extending the original **TakistanPlus** terrain. It adds new points of interest, a different progression and loot distribution while still maintaining the core identity of the original map.
