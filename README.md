@@ -1,5 +1,5 @@
 [![Steam Workshop](https://img.shields.io/badge/Steam-Workshop-000000?style=for-the-badge&logo=steam)](YOUR_STEAM_WORKSHOP_URL)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi)](YOUR_KO_FI_URL)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi)][[YOUR_KO_FI_URL](https://ko-fi.com/marthieson19247)
 
 # DayZ-TakistanSequel - TakistanPlus Terrain Addon
 CE and Mission Files for TakistanSequel
