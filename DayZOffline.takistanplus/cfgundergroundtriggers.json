@@ -345,6 +345,30 @@
             "AmbientSoundType": "cave",
             "AmbientSoundSet": "",
             "Breadcrumbs": []
+        },
+		{
+            "Comment": "jaglangir",
+			"Position": [
+                4839.367,
+                94.934,
+                10568.558
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                46.0,
+                3.5,
+                45.0
+            ],
+            "EyeAccommodation": 0.85,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
         }
     ]
 }

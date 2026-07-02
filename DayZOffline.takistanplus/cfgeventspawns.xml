@@ -988,6 +988,8 @@
 		<pos x="11236" z="9110" />
 		<pos x="10507" z="6452" />
 		<pos x="10380" z="6425" />
+		<pos x="4930" z="10671" />
+		<pos x="4870" z="10567" />
 	</event>
 	<event name="Loot" />
     <event name="VehicleOffroadHatchback">
