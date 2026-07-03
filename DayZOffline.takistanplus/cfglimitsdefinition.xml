@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <lists>
     <categories>
-        <category name="tools"/>
-        <category name="containers"/>
         <category name="clothes"/>
-        <category name="lootdispatch"/>
+		<category name="containers"/>
         <category name="food"/>
+		<category name="books"/>
+		<category name="tools"/>
         <category name="weapons"/>
-        <category name="books"/>
-        <category name="explosives"/>
+		<category name="explosives"/>
+		<category name="lootdispatch"/>
     </categories>
     <tags>
         <tag name="floor"/>
@@ -20,12 +20,12 @@
         <usage name="Medic"/>
         <usage name="Firefighter"/>
         <usage name="Industrial"/>
-        <usage name="Farm"/>
-        <usage name="Coast"/>
         <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
+		<usage name="Village"/>
+		<usage name="Office"/>
         <usage name="School"/>
+		<usage name="Farm"/>
+        <usage name="Coast"/>
 		<usage name="Bunker"/>
 		<usage name="Historical"/>
 		<usage name="Underground" />

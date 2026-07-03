@@ -86,8 +86,6 @@ class CustomMission: MissionServer
 
 		itemClothing = player.FindAttachmentBySlotName( "Body" );
 		{
-			itemEnt = player.GetInventory().CreateInInventory("Compass");
-
             itemEnt = player.GetInventory().CreateInInventory("SodaCan_Pipsi");
 
             itemEnt = player.GetInventory().CreateInInventory("BandageDressing");
