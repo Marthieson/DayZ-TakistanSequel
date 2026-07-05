@@ -35,7 +35,7 @@ Server owners must configure the launch parameters carefully to ensure dependenc
     *Note: `TakistanPlus` must load before `TakistanSequel`.* 
 
 4.  **Keys**: Copy the `.bikey` file from the `keys` folder of **TakistanSequel** (and dependencies) into your server's `keys` directory.
-5.  Server Owners **have to** use the mission files provided here - otherwise loot spawns will not work correctly as objects from TakistanPlus are partially deleted or repositioned completely.
+5.  **Server Owners have to use the mission files provided here** - otherwise loot spawns will not work correctly as objects from TakistanPlus are partially deleted or repositioned completely.
 
 ### Client Configuration
 
