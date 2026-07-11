@@ -369,6 +369,102 @@
             "AmbientSoundType": "cave",
             "AmbientSoundSet": "",
             "Breadcrumbs": []
+        },
+		{
+            "Comment": "nur_step1",
+			"Position": [
+                1754.867,
+                142.514,
+                11942.413
+            ],
+            "Orientation": [
+                45.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                5.0,
+                3.5,
+                2.0
+            ],
+            "EyeAccommodation": 0.95,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Comment": "nur_step2",
+			"Position": [
+                1755.692,
+                139.267,
+                11946.031
+            ],
+            "Orientation": [
+                45.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                7.0,
+                10.0,
+                12.0
+            ],
+            "EyeAccommodation": 0.90,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Comment": "nur_step3",
+			"Position": [
+                1752.623,
+                138.775,
+                11942.613
+            ],
+            "Orientation": [
+                45.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                45.0,
+                3.0,
+                17.0
+            ],
+            "EyeAccommodation": 0.85,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Comment": "nur_step4",
+			"Position": [
+                1774.494,
+                138.775,
+                11940.784
+            ],
+            "Orientation": [
+                45.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                15.0,
+                3.0,
+                12.0
+            ],
+            "EyeAccommodation": 0.85,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
         }
     ]
 }
