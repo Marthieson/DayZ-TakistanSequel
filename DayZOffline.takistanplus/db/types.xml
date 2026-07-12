@@ -2472,7 +2472,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools" />
+        <category name="tools"/>
         <usage name="Bunker"/>
 		<value name="Tier3"/>
     </type>
@@ -3110,71 +3110,6 @@
         <usage name="Town"/>
 		<usage name="Village"/>
         <usage name="School"/>
-    </type>
-    <type name="CombatBoots_Beige">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>1800</restock>
-        <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <tag name="floor"/>
-        <usage name="Military"/>
-    </type>
-    <type name="CombatBoots_Black">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>1800</restock>
-        <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <tag name="floor"/>
-        <usage name="Military"/>
-    </type>
-    <type name="CombatBoots_Brown">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>1800</restock>
-        <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <tag name="floor"/>
-        <usage name="Military"/>
-    </type>
-    <type name="CombatBoots_Green">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>1800</restock>
-        <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <tag name="floor"/>
-        <usage name="Military"/>
-    </type>
-    <type name="CombatBoots_Grey">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>1800</restock>
-        <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <tag name="floor"/>
-        <usage name="Military"/>
     </type>
     <type name="JoggingShoes_Black">
         <nominal>15</nominal>
@@ -4270,86 +4205,6 @@
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Industrial"/>
-    </type>
-    <type name="CargoPants_Beige">
-        <nominal>15</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Industrial"/>
-		<usage name="Military"/>
-        <usage name="Farm"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-    </type>
-    <type name="CargoPants_Black">
-        <nominal>20</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Industrial"/>
-		<usage name="Military"/>
-        <usage name="Farm"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-    </type>
-    <type name="CargoPants_Blue">
-        <nominal>20</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-		<usage name="Town"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-    </type>
-    <type name="CargoPants_Green">
-        <nominal>20</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-		<usage name="Town"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
-    </type>
-    <type name="CargoPants_Grey">
-        <nominal>20</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-		<usage name="Town"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
     <type name="Chainmail">
         <nominal>1</nominal>
@@ -16040,7 +15895,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
-		<usage name="CrashNATO" />
+		<usage name="CrashNATO"/>
     </type>
     <type name="Deagle_Gold">
         <nominal>1</nominal>
@@ -16052,7 +15907,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="weapons"/>
-		<usage name="CrashNATO" />
+		<usage name="CrashNATO"/>
     </type>
     <type name="Derringer_Black">
         <nominal>3</nominal>
@@ -16107,7 +15962,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
-		<usage name="CrashNATO" />
+		<usage name="CrashNATO"/>
     </type>
     <type name="Fal_FoldingBttstck">
         <nominal>3</nominal>
@@ -16143,7 +15998,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
-		<usage name="CrashNATO" />
+		<usage name="CrashNATO"/>
     </type>
     <type name="Flaregun">
         <nominal>6</nominal>
@@ -16707,8 +16562,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-		<usage name="Military" />
-		<usage name="CrashNATO" />
+		<usage name="Military"/>
+		<usage name="CrashNATO"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
@@ -16722,7 +16577,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
-		<usage name="CrashNATO" />
+		<usage name="CrashNATO"/>
     </type>
     <type name="Mag_FAMAS_25Rnd">
         <nominal>1</nominal>
@@ -16734,7 +16589,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
-		<usage name="CrashNATO" />
+		<usage name="CrashNATO"/>
     </type>
     <type name="Mag_FNX45_15Rnd">
         <nominal>15</nominal>
