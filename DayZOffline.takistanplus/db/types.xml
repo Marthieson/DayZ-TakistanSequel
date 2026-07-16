@@ -10590,6 +10590,36 @@
         <category name="clothes"/>
         <usage name="Military"/>
     </type>
+    <type name="T56TankerHelmet_Olive">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+    </type>
+    <type name="T56TankerHelmet_Tan">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+    </type>
 
 <!-- Chapter_Hats -->
     <type name="BaseballCap_Beige">
@@ -18201,6 +18231,21 @@
         <category name="weapons"/>
         <tag name="shelves"/>
         <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="HoloOptic">
+        <nominal>8</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>6</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
 
