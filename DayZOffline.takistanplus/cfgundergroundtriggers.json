@@ -315,7 +315,7 @@
                 5.0,
                 35.0
             ],
-            "EyeAccommodation": 0.4,
+            "EyeAccommodation": 0.2,
             "InterpolationSpeed": 7.0,
             "UseLinePointFade": 0,
             "AmbientSoundType": "cave",
@@ -339,7 +339,7 @@
                 5.0,
                 18.0
             ],
-            "EyeAccommodation": 0.4,
+            "EyeAccommodation": 0.2,
             "InterpolationSpeed": 7.0,
             "UseLinePointFade": 0,
             "AmbientSoundType": "cave",
@@ -363,7 +363,7 @@
                 3.5,
                 45.0
             ],
-            "EyeAccommodation": 0.4,
+            "EyeAccommodation": 0.1,
             "InterpolationSpeed": 7.0,
             "UseLinePointFade": 0,
             "AmbientSoundType": "cave",
@@ -387,7 +387,7 @@
                 3.5,
                 2.0
             ],
-            "EyeAccommodation": 0.7,
+            "EyeAccommodation": 0.5,
             "InterpolationSpeed": 7.0,
             "UseLinePointFade": 0,
             "AmbientSoundType": "cave",
@@ -411,7 +411,7 @@
                 10.0,
                 12.0
             ],
-            "EyeAccommodation": 0.5,
+            "EyeAccommodation": 0.05,
             "InterpolationSpeed": 7.0,
             "UseLinePointFade": 0,
             "AmbientSoundType": "cave",
@@ -435,7 +435,7 @@
                 3.0,
                 17.0
             ],
-            "EyeAccommodation": 0.3,
+            "EyeAccommodation": 0.05,
             "InterpolationSpeed": 7.0,
             "UseLinePointFade": 0,
             "AmbientSoundType": "cave",
@@ -459,7 +459,7 @@
                 3.0,
                 12.0
             ],
-            "EyeAccommodation": 0.3,
+            "EyeAccommodation": 0.05,
             "InterpolationSpeed": 7.0,
             "UseLinePointFade": 0,
             "AmbientSoundType": "cave",
