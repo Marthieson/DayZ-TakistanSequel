@@ -465,6 +465,54 @@
             "AmbientSoundType": "cave",
             "AmbientSoundSet": "",
             "Breadcrumbs": []
+        },
+		{
+            "Comment": "quarry",
+			"Position": [
+                4683.846,
+                369.468,
+                1884.986
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                40.0,
+                25.0,
+                36.0
+            ],
+            "EyeAccommodation": 0.1,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Comment": "quarryentrance",
+			"Position": [
+                4694.468,
+                376.195,
+                1864.258
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                20.0,
+                6.0,
+                9.0
+            ],
+            "EyeAccommodation": 0.3,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
         }
     ]
 }
