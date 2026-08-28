@@ -2507,7 +2507,7 @@
         <category name="tools"/>
         <tag name="shelves"/>
         <usage name="Military"/>
-		<value name="Tier4"/>
+		<value name="Tier5"/>
     </type>
     <type name="BandageDressing">
         <nominal>30</nominal>
@@ -4342,10 +4342,10 @@
         <usage name="Village"/>
     </type>
     <type name="ChernarusMap">
-        <nominal>40</nominal>
+        <nominal>50</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>40</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4357,6 +4357,8 @@
 		<usage name="Town"/>
         <usage name="Office"/>
 		<usage name="School"/>
+        <value name="Tier1"/>
+		<value name="Tier2"/>
     </type>
     <type name="ChernarusMap_Open">
         <nominal>0</nominal>
@@ -5492,10 +5494,10 @@
         <category name="tools"/>
     </type>
     <type name="FishingRod">
-        <nominal>8</nominal>
+        <nominal>12</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5503,6 +5505,7 @@
         <category name="tools"/>
         <usage name="Coast"/>
 		<usage name="Farm"/>
+		<value name="Tier3"/>
     </type>
     <type name="FlashGrenade">
         <nominal>10</nominal>
@@ -6128,6 +6131,7 @@
         <tag name="shelves"/>
         <usage name="Farm"/>
 		<usage name="Coast"/>
+        <value name="Tier3"/>
     </type>
     <type name="HunterPants_Autumn">
         <nominal>0</nominal>
@@ -6343,7 +6347,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <usage name="Coast"/>
-		<usage name="Farm"/>
+        <value name="Tier3"/>
     </type>
     <type name="JumpsuitJacket_Blue">
         <nominal>20</nominal>
@@ -7375,6 +7379,7 @@
 		<usage name="Underground"/>
 		<value name="Tier3"/>
 		<value name="Tier4"/>
+		<value name="Tier5"/>
     </type>
     <type name="Nail">
         <nominal>0</nominal>
@@ -15822,6 +15827,7 @@
         <category name="weapons"/>
         <usage name="Underground"/>
 		<value name="Tier4"/>
+		<value name="Tier5"/>
     </type>
     <type name="AugShort">
         <nominal>2</nominal>
@@ -16331,6 +16337,7 @@
         <category name="weapons"/>
         <usage name="Underground"/>
 		<value name="Tier4"/>
+		<value name="Tier5"/>
     </type>
     <type name="M4_CQBBttstck">
         <nominal>4</nominal>
@@ -16449,6 +16456,7 @@
         <category name="weapons"/>
         <usage name="Underground"/>
         <value name="Tier4"/>
+        <value name="Tier5"/>
     </type>
     <type name="M9A1_Bayonet">
         <nominal>1</nominal>
@@ -17080,16 +17088,18 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_Scout_5Rnd">
-        <nominal>6</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>4</min>
+        <min>6</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Police"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
     </type>
     <type name="Mag_UMP_25Rnd">
         <nominal>12</nominal>
@@ -17214,15 +17224,17 @@
         <value name="Tier3"/>
     </type>
     <type name="Mosin9130_Black">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>3600</restock>
-        <min>0</min>
+        <restock>0</restock>
+        <min>1</min>
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+		<usage name="Historical"/>
+        <value name="Tier3"/>
     </type>
     <type name="Mosin9130_Camo">
         <nominal>1</nominal>
@@ -17232,12 +17244,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
 		<usage name="Historical"/>
-        <value name="Tier1"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <value name="Unique"/>
     </type>
     <type name="Mosin9130_Green">
         <nominal>0</nominal>
@@ -17421,17 +17431,19 @@
         <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>20</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+		<usage name="Police"/>
         <usage name="Military"/>
 		<usage name="Bunker"/>
 		<usage name="CrashNATO"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
+        <value name="Tier5"/>
     </type>
     <type name="RDG2SmokeGrenade_Black">
         <nominal>6</nominal>
@@ -17642,10 +17654,10 @@
         <category name="weapons"/>
     </type>
     <type name="Scout">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>3</min>
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -17667,6 +17679,7 @@
         <category name="weapons"/>
         <usage name="Underground"/>
 		<value name="Tier4"/>
+		<value name="Tier5"/>
     </type>
     <type name="SCARH_Black">
         <nominal>2</nominal>
@@ -17731,6 +17744,21 @@
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="Scarh_Front_Sight">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -17833,6 +17861,7 @@
         <category name="weapons"/>
 		<usage name="Military"/>
 		<value name="Tier4"/>
+		<value name="Tier5"/>
     </type>
     <type name="UMP45">
         <nominal>8</nominal>
