@@ -526,13 +526,6 @@
         <child type="StaticObj_Wreck_Decal_Small1" spawnsecondary="false" x="16.276" z="0.361" a="291.030" />
         <child type="StaticObj_Wreck_Decal_Small1" spawnsecondary="false" x="2.326" z="-0.633" a="291.030" />
     </group>
-    <!--<pos x="211632.299805" z="11792.312500" a="0" y="176.424454" group="Traffic_Karachinar"/> -->
-    <group name="Traffic_Karachinar">
-        <child type="StaticObj_Wreck_Decal_Small1" spawnsecondary="false" x="0" z="0" a="305.598"/>
-        <child type="StaticObj_Wreck_Decal_Small1" spawnsecondary="false" x="-7.424" z="-4.594" a="65.618" />
-        <child type="Land_Wreck_hb01_aban1_police" deloot="0" lootmax="4" lootmin="2" x="-7.386" z="-4.331" a="235.081" />
-        <child type="Land_Wreck_sed01_aban2_white" deloot="0" lootmax="4" lootmin="2" x="-0.639" z="0.032" a="291.159" />
-    </group>
     <!--<pos x="204190.060059" z="11286.532227" a="0" y="158.444138" group="Traffic_Marastar2"/> -->
     <group name="Traffic_Marastar2">
         <child type="Land_Wreck_hb02_aban1_black" deloot="0" lootmax="4" lootmin="2" x="0" z="0" a="83.151"/>
