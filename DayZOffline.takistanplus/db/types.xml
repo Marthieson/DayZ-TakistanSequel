@@ -2146,15 +2146,22 @@
         <category name="food"/>
     </type>
     <type name="Potato">
-        <nominal>0</nominal>
+        <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+		<usage name="Town"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
     </type>
     <type name="PotatoSeed">
         <nominal>32</nominal>
@@ -2472,7 +2479,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
+        <category name="punchedcard"/>
         <usage name="Bunker"/>
 		<value name="Tier3"/>
     </type>
@@ -8242,7 +8249,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Military"/>
         <usage name="Police"/>
     </type>
     <type name="RopeBelt">
@@ -9990,7 +9996,7 @@
 		<usage name="Firefighter"/>
     </type>
     <type name="GlowPlug">
-        <nominal>8</nominal>
+        <nominal>6</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>6</min>
@@ -9999,7 +10005,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Industrial"/>
+		<usage name="Special"/>
     </type>
     <type name="Hacksaw">
         <nominal>45</nominal>
@@ -16177,16 +16183,17 @@
 		<value name="Tier3"/>
     </type>
     <type name="Izh18">
-        <nominal>20</nominal>
+        <nominal>25</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>20</min>
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Farm"/>
+        <usage name="Town"/>
         <usage name="Village"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -17426,6 +17433,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
+        <value name="Tier2"/>
+		<value name="Tier3"/>
     </type>
     <type name="R12">
         <nominal>2</nominal>
@@ -17542,6 +17551,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
+        <value name="Tier2"/>
+		<value name="Tier3"/>
     </type>
     <type name="SawedoffB95">
         <nominal>0</nominal>
@@ -19941,10 +19952,10 @@
         <usage name="Military"/>
     </type>
     <type name="Offroad_02_Door_1_1_Rust">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -19965,10 +19976,10 @@
         <usage name="Military"/>
     </type>
     <type name="Offroad_02_Door_1_2_Rust">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -19989,10 +20000,10 @@
         <usage name="Military"/>
     </type>
     <type name="Offroad_02_Door_2_1_Rust">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
