@@ -432,20 +432,19 @@
 		<cargo chance="0.25"> <item name="AmmoBox_762x39Tracer_20Rnd" /> </cargo>			
 		<cargo chance="0.25"> <item name="AmmoBox_762x39Tracer_20Rnd" /> </cargo>
 		<cargo chance="0.01"> <item name="Ammo_40mm_ChemGas" /> </cargo>
-		<cargo chance="0.20"> <item name="Ammo_40mm_Smoke_Black" /> </cargo>
-		<cargo chance="0.20"> <item name="Ammo_40mm_Smoke_Red" /> </cargo>
-		<cargo chance="0.20"> <item name="Ammo_40mm_Smoke_White" /> </cargo>
-		<cargo chance="0.20"> <item name="Ammo_40mm_Smoke_Green" /> </cargo>
+		<cargo chance="0.10"> <item name="Ammo_40mm_Smoke_Black" /> </cargo>
+		<cargo chance="0.10"> <item name="Ammo_40mm_Smoke_Red" /> </cargo>
+		<cargo chance="0.10"> <item name="Ammo_40mm_Smoke_White" /> </cargo>
+		<cargo chance="0.10"> <item name="Ammo_40mm_Smoke_Green" /> </cargo>
 		<cargo chance="0.10"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="0.20"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="0.50"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="1.0"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="1.0"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="1.0"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="1.0"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="1.0"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="0.50"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="0.20"> <item name="Ammo_40mm_Explosive" /> </cargo>
+		<cargo chance="0.10"> <item name="Ammo_40mm_Explosive" /> </cargo>
+		<cargo chance="0.10"> <item name="Ammo_40mm_Explosive" /> </cargo>
+		<cargo chance="0.10"> <item name="Ammo_40mm_Explosive" /> </cargo>
+		<cargo chance="0.10"> <item name="Ammo_40mm_Explosive" /> </cargo>
+		<cargo chance="0.10"> <item name="Ammo_40mm_Explosive" /> </cargo>
+		<cargo chance="0.10"> <item name="Ammo_40mm_Explosive" /> </cargo>
+		<cargo chance="0.10"> <item name="Ammo_40mm_Explosive" /> </cargo>
+		<cargo chance="0.10"> <item name="Ammo_40mm_Explosive" /> </cargo>
 		<cargo chance="0.10"> <item name="Ammo_40mm_Explosive" /> </cargo>
 	</type>
 	<type name="FishingRod">
@@ -2285,10 +2284,6 @@
 		<attachments preset="hatsFarm" />
 		<attachments preset="bagsVillage" />
 	</type>
-	<!--Special-->
-	<type name="ZmbM_Santa">
-		<attachments preset="SantaHat" />
-	</type>
 	<!--END OF ZOMBIES  -->
 	<!--  WEAPONS  -->
 	<type name="MakarovIJ70">
@@ -3055,7 +3050,7 @@
 			<item name="HeadlightH7" chance="0.40" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="GlowPlug" chance="0.30" />
+			<item name="GlowPlug" chance="0.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarBattery" chance="0.30" />

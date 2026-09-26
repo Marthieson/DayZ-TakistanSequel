@@ -103,7 +103,7 @@
             "Position": [ 3802.554931640625, 79.5, 11014.5771484375 ],
             "Orientation": [ 16.630001068115236, 0.0, -0.0 ],
             "Size": [ 9.600000381469727, 11.0, 4.0 ],
-            "EyeAccommodation": 0.5,
+            "EyeAccommodation": 0.85,
             "InterpolationSpeed": 0.5,
             "AmbientSoundType": "sewer",
             "AmbientSoundSet": "",
@@ -113,7 +113,7 @@
             "Position": [ 3803.64990234375, 79.5, 11018.2001953125 ],
             "Orientation": [ 16.630001068115236, 0.0, 0.0 ],
             "Size": [ 9.600000381469727, 11.0, 4.0 ],
-            "EyeAccommodation": 0.8,
+            "EyeAccommodation": 0.95,
             "InterpolationSpeed": 0.5,
             "AmbientSoundType": "sewer",
             "AmbientSoundSet": "",
@@ -363,7 +363,7 @@
                 3.5,
                 45.0
             ],
-            "EyeAccommodation": 0.1,
+            "EyeAccommodation": 0.05,
             "InterpolationSpeed": 7.0,
             "UseLinePointFade": 0,
             "AmbientSoundType": "cave",
@@ -508,6 +508,462 @@
                 9.0
             ],
             "EyeAccommodation": 0.3,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Comment": "falqashq_frontdoor",
+			"Position": [
+                3641.51123046875,
+                78.11882781982422,
+                11059.5654296875
+            ],
+            "Orientation": [
+                3.9999823570251467,
+                0.0,
+                0.0
+            ],
+            "Size": [
+				4.099999904632568,
+                3.0,
+                8.199999809265137
+            ],
+            "EyeAccommodation": 0.90,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Comment": "falqashq_building",
+			"Position": [
+                3633.207275390625,
+                80.4676513671875,
+                11057.736328125
+            ],
+            "Orientation": [
+                3.6880006790161135,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                12.5,
+                19.5,
+                45.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Comment": "nadayacave_entry",
+			"Position": [
+                7358.283,
+                537.022,
+                4099.948
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+				10.0,
+                3.25,
+                7.0
+            ],
+            "EyeAccommodation": 0.90,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Comment": "nadayacave_barracks",
+			"Position": [
+                7333.845,
+                536.648,
+                4106.665
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                25.0,
+                3.25,
+                19.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Comment": "nadayacave_main",
+			"Position": [
+                7355.779,
+                536.738,
+                4119.047
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                25.0,
+                3.25,
+                32.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Comment": "nadayacave_transition",
+			"Position": [
+                7363.028,
+                536.666,
+                4136.023
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                20.0,
+                3.25,
+                2.30
+            ],
+            "EyeAccommodation": 0.50,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Comment": "chakchakcave_stairsentry",
+			"Position": [
+                2804.113,
+                614.180,
+                2142.791
+            ],
+            "Orientation": [
+                45.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                15.0,
+                35.0,
+                10.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Comment": "chakchakcave_comms",
+			"Position": [
+                2810.230,
+                628.082,
+                2123.475
+            ],
+            "Orientation": [
+                45.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                34.0,
+                6.0,
+                34.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Comment": "chakchakcave_stairs2",
+			"Position": [
+                2819.134,
+                637.084,
+                2125.737
+            ],
+            "Orientation": [
+                45.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                12.0,
+                15.0,
+                15.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Comment": "chakchakcave_longstairs",
+			"Position": [
+                2831.784,
+                655.200,
+                2104.986
+            ],
+            "Orientation": [
+                45.0,
+                0.0,
+                50.0
+            ],
+            "Size": [
+                5.0,
+                50.0,
+                3.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Comment": "chakchakcave_barracks",
+			"Position": [
+                2856.300,
+                673.569,
+                2092.736
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                18.0,
+                5.5,
+                10.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Comment": "chakchakcave_cross",
+			"Position": [
+                2845.868,
+                672.888,
+                2090.426
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                5.5,
+                4.0,
+                5.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Comment": "chakchakcave_towerlow",
+			"Position": [
+                2862.506,
+                676.097,
+                2086.029
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                5.9,
+                3.2,
+                6.8
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Comment": "chakchakcave_towermid1",
+			"Position": [
+                2862.506,
+                678.247,
+                2086.029
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                5.9,
+                3.2,
+                6.8
+            ],
+            "EyeAccommodation": 0.7,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Comment": "chakchakcave_towermid2",
+			"Position": [
+                2862.506,
+                680.566,
+                2086.029
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                5.9,
+                3.2,
+                6.8
+            ],
+            "EyeAccommodation": 0.9,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Comment": "chakchakcave_towerup",
+			"Position": [
+                2862.506,
+                683.529,
+                2086.029
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                5.9,
+                3.2,
+                6.8
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Comment": "nurcave_main",
+			"Position": [
+                725.084,
+                551.198,
+                10932.364
+            ],
+            "Orientation": [
+                -42.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                25.0,
+                25.0,
+                35.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Comment": "nurcave_entrance",
+			"Position": [
+                743.601,
+                556.643,
+                10936.428
+            ],
+            "Orientation": [
+                -42.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                10.0,
+                15.0,
+                15.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "cave",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+		{
+            "Comment": "nurcave_chimney",
+			"Position": [
+                734.130,
+                557.688,
+                10944.141
+            ],
+            "Orientation": [
+                -42.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                12.0,
+                10.0,
+                7.5
+            ],
+            "EyeAccommodation": 0.0,
             "InterpolationSpeed": 1.0,
             "UseLinePointFade": 0,
             "AmbientSoundType": "cave",

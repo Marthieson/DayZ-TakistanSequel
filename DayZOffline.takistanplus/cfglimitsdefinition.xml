@@ -9,6 +9,7 @@
         <category name="weapons"/>
 		<category name="explosives"/>
 		<category name="lootdispatch"/>
+		<category name="punchedcard"/>
     </categories>
     <tags>
         <tag name="floor"/>
@@ -26,11 +27,12 @@
         <usage name="School"/>
 		<usage name="Farm"/>
         <usage name="Coast"/>
-		<usage name="Bunker"/>
 		<usage name="Historical"/>
+		<usage name="Bunker"/>
 		<usage name="Underground" />
 		<usage name="Crash" />
 		<usage name="CrashNATO" />
+		<usage name="Special" />
     </usageflags>
     <valueflags>
         <value name="Tier1"/>
