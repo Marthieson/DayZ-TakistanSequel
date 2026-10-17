@@ -8,6 +8,7 @@ CE and Mission Files for TakistanSequel
 **TakistanSequel** is a map addon extending the original **TakistanPlus** terrain. It adds new points of interest, a different progression and loot distribution while still maintaining the core identity of the original map.
 
 > **⚠️ Important:** This addon is a **derivative work** based on the original **TakistanPlus** mod by **CypeRevenge**.  Full credit belongs to the original author.
+
 > **⚠️ Important after DayZ release 1.30:** This addon is currently only works with LivingxDead's TakiPlus fix: https://steamcommunity.com/sharedfiles/filedetails/?id=3820495704 
 
 ## 📦 Required Dependencies
